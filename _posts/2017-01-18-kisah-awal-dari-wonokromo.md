@@ -3,12 +3,12 @@ layout: post
 title: Kisah Awal dari Wonokromo
 featured: false
 author: reza
-tags: [sastra]
-image: '/images/krs-1.jpg'
-date: 2017-01-18
+tags:
+  - sastra
+image: /images/kisah-dari-wonokromo-krs-reza.jpg
+date: 2017-01-18 00:00:00
 permalink: kisah-awal-dari-wonokromo
 ---
-
 Judul: Bumi Manusia
 
 Pengarang: Pramoedya Ananta Toer
@@ -25,4 +25,4 @@ Novel ini berlatar di Surabaya dan berkisah mengenai Minke, seorang pemuda Inlan
 
 Adapun sosok menarik lainnya, yakni Nyai Ontosoroh, sang ibunda Annelies dan Robert Mellema adalah perempuan dari kelas bawah yang terangkat derajatnya karena perkawinan dengan Herman Mellema. Dia lantas menjadi mahir dalam berbicara bahasa Belanda, mampu membaca, menulis dan berhitung, bahkan mengelola pabrik Buitenzorg milik Herman Mellema. Yang lain adalah Darsam, orang satu ini berasal dari etnis Madura, terlepas tidak begitu pintar, loyalitasnya terhadap Nyai Ontosoroh sangat tinggi, apapun yang dikatakan Nyai, dia patuhi.
 
-Novel sastra karya Pram ini memang menyuguhkan berbagai rasa, berbagai realita. Dia menyoroti usaha kaum inlander yang melawan Belanda dengan cara menulis, banyak pepatah Pram tertuang dalam bukunya ini. Tips-tips dalam menulis ia selipkan melalui dialog yang bermakna. Tidak salah jika tetralogi pulau buru karya Pram dijuluki sebagai "Sumbangan Indonesia untuk Dunia". **_(rez)_**
+Novel sastra karya Pram ini memang menyuguhkan berbagai rasa, berbagai realita. Dia menyoroti usaha kaum inlander yang melawan Belanda dengan cara menulis, banyak pepatah Pram tertuang dalam bukunya ini. Tips-tips dalam menulis ia selipkan melalui dialog yang bermakna. Tidak salah jika tetralogi pulau buru karya Pram dijuluki sebagai "Sumbangan Indonesia untuk Dunia". ***(rez)***
