@@ -3,20 +3,20 @@ layout: post
 title: Derasnya Fantasi Samudra Dongeng
 featured: false
 author: faricha
-tags: [sastra]
-image: '/images/krs-1.jpg'
-permalink: :title
+tags:
+  - sastra
+image: /images/HarunSamudraDongeng-KRS-Faricha.jpg
+permalink: ':title'
 ---
+**Judul Buku**\: Harun dan Samudra Dongeng
 
-**Judul Buku**: Harun dan Samudra Dongeng
+**Penulis**\: Salman Rushdie
 
-**Penulis**: Salman Rushdie
+**Penerbit**\: Serambi
 
-**Penerbit**: Serambi
+**Tahun Terbit**\: 2011
 
-**Tahun Terbit**: 2011
-
-**Tebal Buku**: 234 hlm
+**Tebal Buku**\: 234 hlm
 
 Bagi penikmat buku yang menginginkan cerita fiksi khas keajaiban negeri dongeng namun tidak terlalu kekanak-kanakan untuk dibaca, novel Salman Rushdie ini bisa dimasukkan ke dalam daftar bacaan. Atau jika ingin membacakan ini untuk anak-anak pun kisahnya tetap sesuai, sebagai cerita pengantar tidur. Dongeng memang tidak pernah terlalu usang untuk dibaca setiap jenjang usia. Yang membedakan adalah pemaknaan pembaca atas dongeng yang ia baca.
 
@@ -36,4 +36,4 @@ Beberapa nama yang digunakan dalam novel ini berasal dari bahasa Hindustan, sepe
 
 Novel ini bisa dibilang merupakan persembahan Rushdie sebagai seorang ayah kepada anaknya, Zafar. Penulis memang telah tersohor dengan karya sebelumnya, Midnight’s Children yang meraih Booker Prize 1981, dan The Satanic Verses yang meraih Whitbread Prize 1988. The Satanic Verses mengundang kontroversi sejak pertama kali diterbitkan karena dianggap menistakan Islam, Muhammad, dan Al Quran. Bukunya sempat dilarang beredar dan penulis difatwa mati oleh pemimpin Iran, Ayatollah Khomeini.
 
-Sebenarnya, patut diakui bahwa kemampuan Rushdie dalam menulis kisah fantasi bisa sangat ‘berbahaya’. Bisa dibilang Harun dan Samudra Dongeng ini adalah karya lain dari penulis yang lahir dari imajinasi ‘berbahayanya’. Namun itulah yang membuat karya-karya penulis menarik untuk dibaca. Tidak sekedar menyajikan kisah petualangan fantasi dengan makhluk-makhluk aneh khas dunia khayal, penulis menyuguhkan permainan kata dan sedikit-banyak merefleksikan perilaku sehari-hari. Misalnya hubungan Rasyid Khalifa dengan para politisi, atau komunikasi ayah dan anak ala Rasyid dan Harun. **_(ich)_**
+Sebenarnya, patut diakui bahwa kemampuan Rushdie dalam menulis kisah fantasi bisa sangat ‘berbahaya’. Bisa dibilang Harun dan Samudra Dongeng ini adalah karya lain dari penulis yang lahir dari imajinasi ‘berbahayanya’. Namun itulah yang membuat karya-karya penulis menarik untuk dibaca. Tidak sekedar menyajikan kisah petualangan fantasi dengan makhluk-makhluk aneh khas dunia khayal, penulis menyuguhkan permainan kata dan sedikit-banyak merefleksikan perilaku sehari-hari. Misalnya hubungan Rasyid Khalifa dengan para politisi, atau komunikasi ayah dan anak ala Rasyid dan Harun. ***(ich)***
