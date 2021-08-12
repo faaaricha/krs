@@ -1,0 +1,51 @@
+---
+layout: post
+title: Memahami Nasionalisme dan Sejarah dengan Mudah
+featured: false
+author: reza
+tags: [sosial-budaya]
+image: '/images/KesadaranNasional-KRS-Reza.jpg'
+permalink: :title
+---
+
+**Judul Buku**: Kesadaran Nasional Jilid I
+
+**Penulis**: Slamet Muljana
+
+**Penerbit**: LKIS
+
+**Tahun Terbit**: 2008
+
+**Tebal Buku**: xii+358 Halaman
+
+**ISBN**: 9791283559
+
+Nama Slamet Muljana nampaknya menghilang ketika kita mengkaji nasionalisme. Bahkan akademisi muda jaman sekarang lebih suka menggunakan Benedict Anderson dalam menjelaskan perkembangan nasionalisme di Indonesia. Mungkin karena buku ini diterbitkan untuk siswa Sekolah Menengah Atas (SMA) sehingga para “maha”-siswa menganggap remeh. Namun justru disitu kelebihan buku ini. Sebagai buku yang ditujukan untuk siswa, maka Slamet Muljana menuliskan karyanya dengan bahasa yang sederhana dan mudah dipahami sehingga buku ini tidak hanya karya akademis namun termasuk buku populer.
+
+Diterbitkan untuk memperingati satu abad Kebangkitan Nasional yang ditandai dengan lahirnya Boedi Oetomo (Budi Utomo) pada tahun 1908, buku ini membawa topik nasionalisme sebagai kajian utamanya. Nasionalisme sendiri sedang dalam krisis di mana para pemuda sekarang lebih suka menjadi pengikut Islam yang bisa menyerempet kepada penolakan terhadap NKRI, komunisme yang avonturir, atau menjadi masa bodoh dengan ideologi. Dari ketiga jenis pemuda, yang ketiga adalah yang paling akut karena tidak akan menghasilkan apapun untuk bangsa dan negara kecuali seorang “pembayar pajak”. Agar tidak menjadi pemuda yang demikian, maka inilah pentingnya buku ini.
+
+Sebagai seorang sejarawan, Slamet Muljana memang menuliskan nasionalisme dari sudut pandang sejarah dan sejarah selalu dapat menjadi alat terbaik untuk membangkitkan nasionalisme. Lalu apa makna nasionalisme menurut penulis? Nasionalisme adalah manifestasi kesadaran bernegara atau semangat bernegara. Maka dari itu, nasionalisme dari kata _nation_ tidak hanya berkaitan dengan bangsa, melainkan negara (_state_) sebagai wadah pemenuhan kebutuhan dan persatuan dari bangsa (atau bangsa-bangsa). Diawali dengan mengupas sejarah Budi Utomo yang merupakan cita-cita pendidikan, bukan cita-cita politik. Bertujuan untuk memajukan bangsa Indonesia melalui pendidikan bagi pribumi Indonesia. Pandangan ini dipertahankan oleh Budi Utomo hingga Kongresnya tahun 1929 yang ikut masuk ke dalam jalur politik.
+
+Kenapa Hari Kebangkitan Nasional ditandai dengan kelahiran Budi Utomo di tahun 1908, karena BU adalah pertanda munculnya kesadaran bahwa ada yang tidak beres di daerah yang nantinya bernama Indonesia ini. Kesadaran itu muncul hanya di kalangan Priyayi, itupun dengan ruang lingkup Jawa dan Madura, akan tetapi kesadaran itu adalah titik utamanya. Belum lagi tujuan sosialnya untuk mencerdaskan masyarakat menjadi alasan lain kenapa BU dianggap sebagai organisasi pergerakan pertama, meskipun bukan pergerakan politik. Selanjutnya, banyak organisasi-organisasi lain yang bermunculan dengan membawa identitasnya masing-masing, _Indische Partij_, _Indische Sociaal Democratische Vereniging_ (ISDV), Insulinde, Sarekat Islam dan Muhammadiyah.
+
+Selain BU, bagian awal buku ini turut mengulas usaha memperjuangkan kemerdekaan oleh kelompok politik seperti _Indische Partij_ yang digawangi oleh Douwes Dekker (pembaca juga harus mengingat bahwa ada dua Douwes Dekker, yakni yang menjadi asisten residen di Lebak dan pendiri _Indische Partij_ atau Partai Hindia). Bersama Cipto Mangunkusumo dan Suwardi Suryaningrat, mereka didapuk sebagai Tiga Serangkai. Banyak tindakan ketiganya yang membuat mereka dibuang ke luar tanah air Indonesia, semua bertujuan untuk merintis kemerdekaan Hindia Belanda menjadi Indonesia Raya.
+
+Pergerakan selanjutnya adalah hubungan antara agama dan nasionalisme, agama di sini awalnya adalah Islam yang digambarkan dengan terbentuknya Sarekat Islam (SI). Organisasi yang didirikan oleh H. Samanhudi ini menggunakan kata Islam karena kala itu yang dapat mempersatukan pribumi dan istilah yang dikenal pribumi adalah Islam. Kaum bumiputera belum mengenal “Indonesia” atau “Nasional”. Maka usaha merintis kemerdekaan juga dilakukan oleh pemeluk agama Islam secara nasional melalui SI.
+
+Dalam kelanjutannya, Sarekat Islam mengalami perpecahan antara kubu Tjokroaminoto dan Agus Salim melawan Semaun dan Darsono. Hal ini meningkat dengan penerapan disiplin partai yang mendepak golongan SI Merah di bawah Semaun dan Darsono sehingga mereka memilih untuk tetap tergabung di dalam ISDV ketimbang SI. Selanjutnya, SI pun pecah dengan keluarnya Sukiman Wirjosandjojo yang membentuk Partai Islam Indonesia (Pari) dan Agus Salim (setelah meninggalnya Tjokroaminoto) yang membentuk Pergerakan Penyedar. Hingga bisa kita lihat dalam buku ini bahwa kesaktian SI sebagai gerakan maupun organisasi nasional di Indonesia tidak terlepas dari peranan H. O. S Tjokroaminoto selalu ketuanya. Pada akhirnya, SI terpecah dan melemah. Meskipun begitu, SI masih tetap ada di Indonesia hingga sekarang.
+
+Setelah mengulas tentang SI, Slamet Muljana juga membahas tentang gerakan yang dilakukan oleh kelompok marxis/komunis seperti, Tan Malaka, Semaun, Darsono, Alimin, Budi Sutjitro, Musso, Djamaluddin Tamin, Subakat, Ali Archam, Sardjono, H. M. Misbach dan nama-nama lainnya merupakan generasi awal PKI yang turut mendukung gerakan PKI hasil dari pertemuan Prambanan (kecuali Tan Malaka). Akibat dari gerakan tersebut adalah semakin diperketatnya pengawasan pemerintah kolonial Belanda terhadap gerakan nasionalis dan dibubarkannya PKI oleh Belanda. PKI terbukti tergesa-gesa dalam melakukan pemberontakan yang merugikan tidak hanya diri mereka sendiri, tapi kelompok-kelompok lain yang bertujuan untuk merintis kemerdekaan.
+
+Setelah mengulas kelompok BU, SI, hingga PKI, Slamet Muljana juga tidak lupa membahas kelompok yang secara eksplisit menggunakan kata “nasional” dalam namanya seperti Partai Nasional Indonesia (PNI). Partai ini sangat erat dengan figur Soekarno yang diawali dengan _Algemeene Studieclub_ di Bandung lalu menjadi Perserikatan Nasional Indonesia dan pada akhirnya menjadi Partai Nasional Indonesia. Pengkategorian yang dilakukan oleh Muljana ditekankan kepada ideologi atau asas yang digunakan oleh organisasi/kelompok perintis kemerdekaan seperti Islam, Nasionalisme,  hingga Marxisme/Komunisme. Hanya BU yang tidak begitu dijelaskan terkait ideologi. Adapun uraian Muljana kerapkali memperlihatkan bahwa tokoh-tokoh nasional Indonesia sendiri sering bertarung sendiri antara yang satu dengan yang lainnya, seperti dicontohkan dalam perpecahan di tubuh SI.
+
+Partai-partai dan kelompok-kelompok yang menggunakan istilah “nasional” dalam nama, anggaran dasar, maupun asas atau ideologinya mendapatkan porsi cukup banyak dalam buku ini, mulai dari Partai Nasional Indonesia (PNI) lalu Partai Indonesia (Partindo), Pendidikan Nasional Indonesia (PNI-Baru atau PNI-Pendidikan) hingga Gerakan Rakyat Indonesia (Gerindo) yang digawangi A.K. Gani. Banyaknya kelompok-kelompok ini juga menandakan bahwa dalam perjuangannya, tokoh “nasionalis” di Indonesia juga tidak dapat menyelaraskan kepentingannya masing-masing, baik Syahrir dengan Sartono, Amir dengan Syahrir, bahkan Soekarno dan Hatta pun. Gerindo yang muncul setelah bubarnya Partindo merupakan kelompok nasionalis yang bisa dibilang “kooperatif” dengan Belanda yang berjuang melawan fasisme. Di Asia, pembawa fasisme adalah Jepang.
+
+Realitas yang ditangkap oleh Slamet Muljana sebenarnya menarik, bahwa kelompok nasional ini berusaha menarik massa tani dan buruh. Hampir dalam semua kelompok politik kecuali BU (BU lebih menekankan masyarakat ketimbang buruh & tani), baik SI, PKI, hingga kelompok nasionalis selalu menggunakan buruh dan tani sebagai basis untuk menarik massa politiknya, meskipun begitu, nasib buruh dan tani tidak berubah. Sehingga ada kesimpulan tersirat bahwa tani dan buruh hanya digunakan untuk kebutuhan politik saja.
+
+Dalam perjuangan merintis kemerdekaan, ada dua taktik yang digunakan bapak Bangsa Indonesia: kooperatif dan nonkooperatif. Kooperatif ialah bekerja sama dengan pemerintah Belanda dalam memajukan rakyat, sedangkan nonkooperatif adalah taktik di mana gerakan nasional tidak mau bekerja sama dengan pemerintah kolonial. Tiap organisasi nasional Indonesia tidak selamanya menggunakan satu taktik/asas, melainkan berganti-ganti. Ada kalanya SI bersifat kooperatif, di lain waktu menjadi nonkooperatif. Banyak nama-nama yang tidak disingkat, terdengar hampir sama seperti Partai Indonesia (Partindo) dan Partai Indonesia Raya (Parindra). Meskipun terdengar sama, namun Partindo dan Parindra berbeda jauh dalam bergeraknya, Partindo ingin Indonesia merdeka, sedangkan Parindra ingin Indonesia mulia. Keduanya memiliki tujuan yang luhur namun cara yang berbeda dalam mencapai tujuannya.
+
+Tidak seluruh gerakan nasional bergerak di bidang politik, beberapa di antaranya berfokus pada bidang ekonomi, seperti Sarekat Islam awalnya adalah Sarekat Dagang Islam yang bergerak di bidang ekonomi dari para pedagang batik. Lalu Parindra memiliki program yang bertujuan memperkuat ekonomi rakyat melalui koperasi Rukun Tani. Kedua contoh tersebut kalah dominan dengan kelompok-kelompok atau partai-partai perintis kemerdekaan yang bergerak di bidang politik, bahkan dominasi partai politik yang sangat kuat justru kerap kali melahirkan kebijakan pemerintah kolonial yang keras.
+
+Dalam cerita sejarah nasional di Indonesia, sering ada gesekan antara golongan tua dan golongan muda, seperti yang diutarakan oleh Slamet Muljana, bahwa pembentukan BU diinisiasi oleh golongan muda, namun selanjutnya dijalankan oleh golongan tua yang memiliki pertimbangan lebih matang dalam melangkah. Kisah yang paling terkenal adalah usaha pemuda yang menculik dan mendesak Soekarno-Hatta untuk memproklamasikan Indonesia setelah kejatuhan Jepang.Buku yang dibagi dalam berbagai macam kategori ini menyuguhkan kenyataan-kenyataan yang terjadi di Indonesia semasa usaha untuk merebut kemerdekaan dari tangan Belanda.
+
+Buku ini sangat pantas untuk dibaca segala kalangan karena bahasanya yang ringan dan gaya tutur penulis yang layaknya sedang bercerita. Memang tepat apabila buku ini diterbitkan untuk mendampingi para siswa SMA guna memahami sejarah nasionalnya dan mengenal kesadaran nasional juga nasionalisme. **(**_**rez**_**)**
