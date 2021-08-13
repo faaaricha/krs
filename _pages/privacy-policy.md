@@ -9,27 +9,26 @@ Laman ini berisi **Disclaimer** dan **Kebijakan Privasi** terkait pengumpulan, p
 
 Baca **Disclaimer** [di sini](#disclaimer)
 
-_This page contains disclaimer and privacy policy regarding data collection, usage, protection, and inquiry in Kedai Resensi Surabaya (www.kedairesensisurabaya.net). To read the **English** version of this page, scroll down or [click here](#privacy-policy-en)._
+*This page contains disclaimer and privacy policy regarding data collection, usage, protection, and inquiry in Kedai Resensi Surabaya (www.kedairesensisurabaya.net). To read the **English** version of this page, scroll down or [click here](#privacy-policy-en).*
 
-_Read **Disclaimer** [here](#disclaimer)_
+*Read **Disclaimer** [here](#disclaimer)*
 
+**Daftar Isi / *Table of Contents***
 
-**Daftar Isi / _Table of Contents_**
-
-- [Siapa Kami](#siapa-kami)/[*Who we are*](#who-we-are)
-- [Data pribadi apa yang kami kumpulkan dan mengapa kami mengumpulkannya](#data-pribadi-apa-yang-kami-kumpulkan-dan-mengapa-kami-mengumpulkannya)/[*What personal data we collect and why we collect it*](#what-personal-data-we-collect-and-why-we-collect-it)
-  - [Komentar](#komentar)/[*Comments*](#comments)
-  - [Media](#media)/[*Media*](#media)
-  - [Formulir kontak](#formulir-kontak)/[*Contact forms*](#contact-forms)
-  - [Cookie](#cookie)/[*Cookies*](#cookies)
-  - [Konten yang disematkan dari situs web lain](#konten-yang-disematkan-dari-situs-web-lain)/[*Embedded content from other websites*](#embedded-content-from-other-websites)
-  - [Analitik](#analitik)/[*Analytics*](#analytics)
-- [Dengan siapa kami membagikan data Anda](#dengan-siapa-kami-membagikan-data-anda)/[*Who we share your data with*](#who-we-share-your-data-with)
-- [Berapa lama kami menyimpan data Anda](#berapa-lama-kami-menyimpan-data-anda)/[*How long we retain your data*](#how-long-we-retain-your-data)
-- [Hak apa yang Anda miliki atas data Anda](#hak-apa-yang-anda-miliki-atas-data-anda)/[*What rights you have over your data*](#what-rights-you-have-over-your-data)
-- [Ke mana kami mengirimkan data Anda](#ke-mana-kami-mengirimkan-data-anda)/[*Where we send your data*](#where-we-send-your-data)
-- [Informasi tambahan](#informasi-tambahan)/[*Additional information*](#additional-information)
-  - [Pertanyaan Lebih Lanjut](#pertanyaan-lebih-lanjut)/[*Further Question*](#further-question)
+* [Siapa Kami](#siapa-kami)/[*Who we are*](#who-we-are)
+* [Data pribadi apa yang kami kumpulkan dan mengapa kami mengumpulkannya](#data-pribadi-apa-yang-kami-kumpulkan-dan-mengapa-kami-mengumpulkannya)/[*What personal data we collect and why we collect it*](#what-personal-data-we-collect-and-why-we-collect-it)
+  * [Komentar](#komentar)/[*Comments*](#comments)
+  * [Media](#media)/[*Media*](#media)
+  * [Formulir kontak](#formulir-kontak)/[*Contact forms*](#contact-forms)
+  * [Cookie](#cookie)/[*Cookies*](#cookies)
+  * [Konten yang disematkan dari situs web lain](#konten-yang-disematkan-dari-situs-web-lain)/[*Embedded content from other websites*](#embedded-content-from-other-websites)
+  * [Analitik](#analitik)/[*Analytics*](#analytics)
+* [Dengan siapa kami membagikan data Anda](#dengan-siapa-kami-membagikan-data-anda)/[*Who we share your data with*](#who-we-share-your-data-with)
+* [Berapa lama kami menyimpan data Anda](#berapa-lama-kami-menyimpan-data-anda)/[*How long we retain your data*](#how-long-we-retain-your-data)
+* [Hak apa yang Anda miliki atas data Anda](#hak-apa-yang-anda-miliki-atas-data-anda)/[*What rights you have over your data*](#what-rights-you-have-over-your-data)
+* [Ke mana kami mengirimkan data Anda](#ke-mana-kami-mengirimkan-data-anda)/[*Where we send your data*](#where-we-send-your-data)
+* [Informasi tambahan](#informasi-tambahan)/[*Additional information*](#additional-information)
+  * [Pertanyaan Lebih Lanjut](#pertanyaan-lebih-lanjut)/[*Further Question*](#further-question)
 
 ---
 
@@ -45,11 +44,11 @@ Situs web kami berada di: https://www.kedairesensisurabaya.net
 
 Ketika pengunjung berkomentar di situs web ini, kami mengumpulkan data yang ditampilkan di formulir komentar, serta alamat IP pengunjung dan peramban web yang digunakan oleh pengunjung untuk membantu mendeteksi spam.
 
-Sebuah string anonim yang dibuat dari alamat email Anda (yang juga disebut _hash_) dapat diberikan ke layanan Gravatar untuk mengecek apakah Anda menggunakannya. Kebijakan privasi layanan Gravatar tersedia di: https://automattic.com/privacy/. Setelah menyetujui komentar Anda, gambar profil Anda dapat dilihat oleh publik dalam konteks komentar Anda.
+Sebuah string anonim yang dibuat dari alamat email Anda (yang juga disebut *hash*) dapat diberikan ke layanan Gravatar untuk mengecek apakah Anda menggunakannya. Kebijakan privasi layanan Gravatar tersedia di: https://automattic.com/privacy/. Setelah menyetujui komentar Anda, gambar profil Anda dapat dilihat oleh publik dalam konteks komentar Anda.
 
 ### Media
 
-Jika Anda mengunggah gambar ke situs web ini, Anda harus menghindari mengunggah gambar dengan data lokasi tersemat (_embedded_) (EXIF GPS). Pengunjung situs web dapat mengunduh dan mengekstrak data lokasi apapun dari gambar di situs web.
+Jika Anda mengunggah gambar ke situs web ini, Anda harus menghindari mengunggah gambar dengan data lokasi tersemat (*embedded*) (EXIF GPS). Pengunjung situs web dapat mengunduh dan mengekstrak data lokasi apapun dari gambar di situs web.
 
 ### Formulir kontak
 
@@ -167,7 +166,7 @@ Visitor comments may be checked through an automated spam detection service.
 
 Kindly email your inquiries to [kedairesensisurabaya@gmail.com](mailto:kedairesensisurabaya@gmail.com).
 
-***
+---
 
 # Disclaimer
 
@@ -191,5 +190,4 @@ While the information on this website has been verified to the best of our abili
 
 We reserve the right to change this policy at any given time, of which you will be promptly updated. If you want to make sure that you are up to date with the latest changes, we advise you to frequently visit this page.
 
-[**Back to Home**](https://kedairesensisurabaya.net)
-
+[**Back to Home**](/)
