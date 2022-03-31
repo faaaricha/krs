@@ -31,7 +31,7 @@ Untuk daftar buku-buku yang telah diresensi di KRS, pembaca dapat melihat airtab
 
 ### Saya Mau Tanya....
 
-Apabila pembaca punya pertanyaan lebih lanjut, pembaca dapat menghubungi kami di alamat email [hi@kedairesensisurabaya.com](mailto:kedairesensisurabaya@gmail.com) atau melalui [media sosial kami](https://instagram.com/rezafaricha).
+Apabila pembaca punya pertanyaan lebih lanjut, pembaca dapat menghubungi kami di alamat email [kedairesensisurabaya@gmail.com](mailto:kedairesensisurabaya@gmail.com) atau melalui [media sosial kami](https://instagram.com/rezafaricha).
 
 \*P.S. Most of the featured image used in this site is from [Unsplash](unsplash.com)  
 \*P.P.S. Some rights reserved.
