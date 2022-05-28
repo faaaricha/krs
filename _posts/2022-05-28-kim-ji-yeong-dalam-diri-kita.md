@@ -2,7 +2,7 @@
 layout: post
 title: Kim Ji-yeong dalam Diri Kita
 featured: false
-author: ich
+author: faricha
 tags: [sosial-budaya]
 image: '/images/Kim-Ji-yeong-Lahir-Tahun-1982-KRS-ich.jpg'
 permalink: :title
