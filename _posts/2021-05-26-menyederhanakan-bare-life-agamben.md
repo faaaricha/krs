@@ -2,11 +2,13 @@
 layout: post
 title: Menyederhanakan Bare-Life ala Agamben dalam Bahasa Indonesia
 featured: false
-author: faricha, reza
+author: krs
 tags: [serba-serbi]
 image: '/images/agamben-bare-life-krsillust.jpg'
 permalink: :title
 ---
+
+*By A.	Faricha Mantika & Reza Hikam*
 
 Konsep *bare-life* dari Agamben memberikan kondisi pada individu untuk terekslusi/dikecualikan/dikeluarkan dari yurisdiksi hukum, tetapi pada saat yang bersamaan, dia masih terinklusi/termasuk dalam yurisdiksi hukum. 
 
